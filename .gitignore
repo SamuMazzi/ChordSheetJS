@@ -1,6 +1,5 @@
 node_modules
 .idea
-lib
 src/formatter/templates/*.js
 src/parser/*_peg_parser.ts
 .tool-versions
